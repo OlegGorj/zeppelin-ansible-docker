@@ -1,4 +1,4 @@
-FROM oleggorj/ubuntu16.04-ansible:1.0
+FROM oleggorj/ubuntu16.04-ansible
 
 ADD ansible /srv/ansible
 
